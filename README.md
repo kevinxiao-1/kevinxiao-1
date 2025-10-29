@@ -10,6 +10,7 @@
 [![HackerRank - Python Basic](https://img.shields.io/badge/HackerRank-Python%20Basic-blue?style=flat-square)](https://www.hackerrank.com/certificates/cd802f904d60)
 [![Deloitte Australia - Data Analytics Job Simulation](https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-blue?style=flat-square)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68c665d8c5c1406e81f0ecaf_1760943656182_completion_certificate.pdf)
 [![Commonwealth Bank - Introduction to Data Science Job Simulation](https://img.shields.io/badge/Commonwealth%20Bank-Introduction%20to%20Data%20Science%20Job%20Simulation-blue?style=flat-square)](https://www.theforage.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_68c665d8c5c1406e81f0ecaf_1758016205093_completion_certificate.pdf)
+[![freeCodeCamp Data Analysis With Python](https://img.shields.io/badge/freeCodeCamp-Data%20Analysis%20With%20Python-blue?-style=flat-square)](https://www.freecodecamp.org/certification/fcc7b1a53db-43a5-4366-9233-eb24313d8cc3/data-analysis-with-python-v7)
 
 ---
 
